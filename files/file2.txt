@@ -6,3 +6,5 @@ riga 5 file 2
 riga 6 file 2
 riga 7 da github
 riga 8 da github
+riga 9 da git locale
+riga 10
