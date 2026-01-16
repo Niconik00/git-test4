@@ -1,0 +1,6 @@
+riga 1 file 2
+riga 2 file 2
+riga 3 file 2
+riga 4 file 2
+riga 5 file 2
+riga 6 file 2

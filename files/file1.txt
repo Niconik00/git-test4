@@ -1,0 +1,12 @@
+prima riga
+seconda riga
+terza riga
+quarta riga
+modificato il file per l'esercizio 13.01.2026 
+aaaa
+bbb
+5 riga
+
+settima riga
+ottava riga
+

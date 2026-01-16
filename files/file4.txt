@@ -1,0 +1,15 @@
+riga 1 file 4
+riga 2 file 4
+riga 2 file 4
+
+nuove modifiche riga 5 da master per richiesta fix
+modificato nella data odierna 
+riga 4 file 4 da branch
+riga 5 file 4 da branch modifica 2
+
+riga 7 file 4 da branch
+
+
+
+riga modifiche del branch 2
+riga del branch 2
